@@ -37,6 +37,8 @@ Here are some ideas to get you started:
     <img src="https://flicsdb.com/wp-content/uploads/2019/04/gophercises_punching.gif"  height="80" />
   </a>
   <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-cdb-for-mysql-7.png"  height="90" />
+  <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/402066C85613444B9602EB0FC677C5D1/amazon-web-services-down-20140527.gif"  height="90" />
   </a>
  </p>

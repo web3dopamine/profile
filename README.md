@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ![Alt text](https://flicsdb.com/wp-content/uploads/2019/04/gophercises_punching.gif)
+- 🔭 I’m currently working on ![Alt text](https://flicsdb.com/wp-content/uploads/2019/04/gophercises_punching.gif =250x)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

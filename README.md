@@ -16,7 +16,7 @@ Here are some ideas to get you started:
     <img src="https://thebitcoin.pub/uploads/default/original/2X/0/003de396bae5f4267b5fa7b2e93d513f0d0c6c01.gif" height="80" />
   </a>
   <a href="https://ethereum.org/en/" target="_blank" >
-    <img src="https://createmycoin.club/images/ethwaterloo.gif" height="80" /> 
+    <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" height="70" /> 
   </a>
  </p>
 

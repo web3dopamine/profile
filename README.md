@@ -5,6 +5,11 @@
 
 Here are some ideas to get you started:
 -->
+
+## Contrubtions
+
+![Taha's github stats](https://github-readme-stats.vercel.app/api?username=dhaileytaha&hide=issues&show_icons=true)
+
 ## My Tech Stack
 
 <!--

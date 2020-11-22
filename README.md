@@ -5,8 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-
+## Skills
+***
+<!--
 - 🔭 I’m currently working on 
+-->
 <div>
     <img src="https://flicsdb.com/wp-content/uploads/2019/04/gophercises_punching.gif" width="200px"</img> 
     <img src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100px"</img> 

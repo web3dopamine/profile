@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ## Blockchain Stack
 <p float="left">
-  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+  <a href="https://bitcoin.org/bitcoin.pdf" target="_blank" >
     <img src="https://thebitcoin.pub/uploads/default/original/2X/0/003de396bae5f4267b5fa7b2e93d513f0d0c6c01.gif" height="80" />
   </a>
   <a href="https://ethereum.org/en/" target="_blank" >
@@ -30,13 +30,13 @@ Here are some ideas to get you started:
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="80" />
   </a>
-  <a href="https://golang.org/" target="_blank" >
+  <a href="https://reactjs.org/" target="_blank" >
     <img src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height="80" /> 
   </a>
-  <a href="https://www.docker.com/" target="_blank" >
+  <a href="https://golang.org/" target="_blank" >
     <img src="https://flicsdb.com/wp-content/uploads/2019/04/gophercises_punching.gif"  height="80" />
   </a>
-  <a href="https://kubernetes.io/" target="_blank" >
+  <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/402066C85613444B9602EB0FC677C5D1/amazon-web-services-down-20140527.gif"  height="90" />
   </a>
  </p>

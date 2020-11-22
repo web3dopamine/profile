@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
 <div>
-    
     <img src="https://flicsdb.com/wp-content/uploads/2019/04/gophercises_punching.gif" width="400px"</img> 
 </img> 
 </div>

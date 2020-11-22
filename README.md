@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m Taha currenctly working as a cryptocurrency and blockchain engineer at KPMG
+- 🌱 I’m Taha working as web3 engineer at KPMG
 <!--
 **dhaileytaha/dhaileytaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +10,18 @@ Here are some ideas to get you started:
 
 ![Taha's github stats](https://github-readme-stats.vercel.app/api?username=dhaileytaha&hide=issues&show_icons=true)
 
-## My Tech Stack
+## Blockchain Stack
+<p float="left">
+  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://thebitcoin.pub/uploads/default/original/2X/0/003de396bae5f4267b5fa7b2e93d513f0d0c6c01.gif" height="80" />
+  </a>
+  <a href="https://ethereum.org/en/" target="_blank" >
+    <img src="https://createmycoin.club/images/ethwaterloo.gif" height="80" /> 
+  </a>
+ </p>
+
+
+## Tech Stack
 
 <!--
 - 🔭 I’m currently working on 

@@ -1,12 +1,12 @@
 ### Hi there 👋
-
+- 🌱 I’m currently Taha Dhailey currenctly working as a cryptocurrency and blockchain engineer at KPMG
 <!--
 **dhaileytaha/dhaileytaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 ## My Tech Stack
-***
+
 <!--
 - 🔭 I’m currently working on 
 -->
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
     <img src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100px"</img> 
     <img src="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/402066C85613444B9602EB0FC677C5D1/amazon-web-services-down-20140527.gif" width="200px"
 </img> 
-<div>
+</div>
 
 <!--
 - 🌱 I’m currently learning ...

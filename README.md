@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ## Blockchain Stack
 <p float="left">
   <a href="https://bitcoin.org/bitcoin.pdf" target="_blank" >
-    <img src="https://thebitcoin.pub/uploads/default/original/2X/0/003de396bae5f4267b5fa7b2e93d513f0d0c6c01.gif" height="80" />
+    <img src="https://lh3.googleusercontent.com/proxy/JS9GBmBnpJLjxi2FlOPbAVcJyIKNUmitw2iVILjhD8soW-HKC04-nkxPbQwzPEfMCHkyB-h2hBsnLSDO2ThQZTshsSBMPC9GA6u1PofZTv5WLhUinsE" height="80" />
   </a>
   <a href="https://ethereum.org/en/" target="_blank" >
     <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" height="70" /> 

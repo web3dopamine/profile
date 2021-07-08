@@ -43,7 +43,8 @@ Here are some ideas to get you started:
   </a>
  </p>
 
-
+![snake gif](https://github.com/dhaileytaha/platane/blob/main/github-contribution-grid-snake.gif)
+  
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

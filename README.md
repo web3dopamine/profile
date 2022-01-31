@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="80" />
   </a>
 <a href="https://golang.org/" target="_blank" >
-    <img src="https://miro.medium.com/max/2000/1*30aoNxlSnaYrLhBT0O1lzw.png"  height="80" />
+    <img src="https://github.com/dhaileytaha/dhaileytaha/blob/main/gologo.png"  height="80" />
   </a>
   <a href="https://golang.org/" target="_blank" >
     <img src="https://github.com/dhaileytaha/dhaileytaha/blob/main/solidityLogo.jpeg"  height="80" />

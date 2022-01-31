@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 <a href="https://golang.org/" target="_blank" >
     <img src="https://miro.medium.com/max/2000/1*30aoNxlSnaYrLhBT0O1lzw.png"  height="80" />
   </a>
+  <a href="https://golang.org/" target="_blank" >
+    <img src="https://github.com/dhaileytaha/dhaileytaha/blob/main/solidityLogo.jpeg"  height="80" />
+  </a>
  </p>
 
 ![snake gif](https://github.com/dhaileytaha/dhaileytaha/blob/output/github-contribution-grid-snake.gif)

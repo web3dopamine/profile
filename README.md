@@ -30,9 +30,9 @@ Here are some ideas to get you started:
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="80" />
   </a>
-<!--  <a href="https://golang.org/" target="_blank" >
-    <img src="https://flicsdb.com/wp-content/uploads/2019/04/gophercises_punching.gif"  height="80" />
-  </a>-->
+<a href="https://golang.org/" target="_blank" >
+    <img src="https://miro.medium.com/max/2000/1*30aoNxlSnaYrLhBT0O1lzw.png"  height="80" />
+  </a>
  </p>
 
 ![snake gif](https://github.com/dhaileytaha/dhaileytaha/blob/output/github-contribution-grid-snake.gif)

@@ -33,8 +33,11 @@ Here are some ideas to get you started:
 <a href="https://golang.org/" target="_blank" >
     <img src="https://github.com/dhaileytaha/dhaileytaha/blob/main/gologo.png"  height="80" />
   </a>
-  <a href="https://golang.org/" target="_blank" >
+  <a href="https://docs.soliditylang.org/en/v0.8.11/" target="_blank" >
     <img src="https://github.com/dhaileytaha/dhaileytaha/blob/main/solidityLogo.jpeg"  height="80" />
+  </a>
+  <a href="https://hardhat.org/getting-started/" target="_blank" >
+    <img src="https://github.com/dhaileytaha/dhaileytaha/blob/main/hardhatlogo.png"  height="80" />
   </a>
  </p>
 

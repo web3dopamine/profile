@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m Taha working as web3 engineer at KPMG
+- 🌱 I’m DAOdAppDev
 <!--
 **dhaileytaha/dhaileytaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
